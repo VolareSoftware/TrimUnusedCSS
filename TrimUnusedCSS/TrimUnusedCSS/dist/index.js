@@ -145,9 +145,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
   !*** ./Styles/all-styles.css ***!
   \*******************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-// removed by extract-text-webpack-plugin
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 

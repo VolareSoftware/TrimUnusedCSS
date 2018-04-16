@@ -1,2 +1,7 @@
-﻿body {
+﻿.some-unused-class {
+    color: red;
+}
+
+.some-dynamic-class {
+    color: red;
 }
